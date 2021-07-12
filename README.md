@@ -5,7 +5,7 @@ https://github.com/fhernandogallego/sparsEDA
 
 Following figure shows the performance compared to the original code written for Matlab (five females and five males).
 
-
+<img src="rmse_plot.jpg">
 
 
 If you use this code, please cite these for your literature works:
