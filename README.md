@@ -13,6 +13,7 @@ Following figure shows the length (sec) distribution of 10 subjects:<br>
 Following figure shows the performance distribution between this and Matlab codes:<br>
 <img src="rmse_plot.png" width=288 height=216>
 
+* Please resample to ~8 Hz if sampling rate is greater than 8 Hz.
 
 
 If you use this code, please cite these for your literature works:
