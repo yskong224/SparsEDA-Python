@@ -7,10 +7,10 @@ Following figure shows and performance compared to the original code written for
 
 Ten subjects (Five females and five males) with pain and stress data have been tested to compare with the original code written in Matlab).
 
-Following figure shows the length (sec) distribution of 10 subjects:
+Following figure shows the length (sec) distribution of 10 subjects:<br>
 <img src="time_plot.png" width=288 height=216>
 
-Following figure shows the performance distribution between this and Matlab codes:
+Following figure shows the performance distribution between this and Matlab codes:<br>
 <img src="rmse_plot.png" width=288 height=216>
 
 
