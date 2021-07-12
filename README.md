@@ -14,9 +14,11 @@ Following figure shows the performance distribution between this and Matlab code
 <img src="rmse_plot.png" width=288 height=216>
 
 * Please resample to ~8 Hz if sampling rate is greater than 8 Hz.
+* Tested with Python 3.6.9, SciPy 1.3.1, and Numpy 1.19.5.
 
 
 If you use this code, please cite these for your literature works:
 1. Hernando-Gallego, Francisco, David Luengo, and Antonio Artés-Rodríguez. "Feature extraction of galvanic skin responses by nonnegative sparse deconvolution." IEEE journal of biomedical and health informatics 22.5 (2017): 1385-1394.
 2. Hernando-Gallego, Francisco, David Luengo, and Antonio Artés-Rodríguez. https://github.com/fhernandogallego/sparsEDA
 3. Kong, Youngsun, https://github.com/yskong224/SparsEDA-python
+
