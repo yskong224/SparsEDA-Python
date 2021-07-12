@@ -5,8 +5,8 @@ https://github.com/fhernandogallego/sparsEDA
 
 Following figure shows the performance compared to the original code written for Matlab (five females and five males).
 
-<img src="rmse_plot.png", width=50%, height=50%>
-<img src="time_plot.png", width=50%, height=50%>
+<img src="rmse_plot.png", width=576, height=432>
+<img src="time_plot.png", width=576, height=432>
 
 
 If you use this code, please cite these for your literature works:
