@@ -16,6 +16,8 @@ Following figure shows the performance distribution between this and Matlab code
 * Please resample to ~8 Hz if sampling rate is greater than 8 Hz.
 * Tested with Python 3.6.9, SciPy 1.3.1, and Numpy 1.19.5.
 
+Author informatin:
+Biomedical Engineering, University of Connecticut
 
 If you use this code, please cite these for your literature works:
 1. Hernando-Gallego, Francisco, David Luengo, and Antonio Artés-Rodríguez. "Feature extraction of galvanic skin responses by nonnegative sparse deconvolution." IEEE journal of biomedical and health informatics 22.5 (2017): 1385-1394.
