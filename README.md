@@ -16,7 +16,7 @@ Following figure shows the performance distribution between this and Matlab code
 * Please resample to ~8 Hz if sampling rate is greater than 8 Hz.
 * Tested with Python 3.6.9, SciPy 1.3.1, and Numpy 1.19.5.
 
-Author informatin:
+Author information:
 Biomedical Engineering, University of Connecticut
 
 If you use this code, please cite these for your literature works:
