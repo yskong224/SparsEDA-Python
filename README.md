@@ -1,4 +1,4 @@
-# SparsEDA python
+# SparsEDA Python
 
 SparsEDA is an electrodermal activity (EDA, i.e., galvanic skin response, GSR) decomposition method.
 This code is translated from the folliwng github page:
