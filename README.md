@@ -1,4 +1,4 @@
-# SparsEDA-python
+# SparsEDA python
 
 This code is translated from the folliwng github page:
 https://github.com/fhernandogallego/sparsEDA
