@@ -395,6 +395,9 @@ def sparsEDA(signalIn,sr,epsilon,Kmax,dmin,rho):
 
     # PP
     ind = np.argwhere(SCRaux > 0).reshape(-1)
+    driver = np.zeros(len(SCRaux))
+    if ind.shape[0] == 0:
+        return driver, SCL, MSE
     scr_temp = SCRaux[ind]
     ind2 = np.argsort(scr_temp)[::-1]
     scr_ord = scr_temp[ind2]
@@ -406,7 +409,6 @@ def sparsEDA(signalIn,sr,epsilon,Kmax,dmin,rho):
             scr_fin.append(scr_ord[i])
             ind_fin.append(ind[ind2[i]])
 
-    driver = np.zeros(len(SCRaux))
     driver[np.array(ind_fin)] = np.array(scr_fin)
 
     scr_max = scr_fin[0]
