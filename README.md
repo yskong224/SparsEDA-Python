@@ -23,5 +23,5 @@ Biomedical Engineering, University of Connecticut
 If you use this code, please cite these for your literature works:
 1. Hernando-Gallego, Francisco, David Luengo, and Antonio Artés-Rodríguez. "Feature extraction of galvanic skin responses by nonnegative sparse deconvolution." IEEE journal of biomedical and health informatics 22.5 (2017): 1385-1394.
 2. Hernando-Gallego, Francisco, David Luengo, and Antonio Artés-Rodríguez. https://github.com/fhernandogallego/sparsEDA
-3. Kong, Youngsun, https://github.com/yskong224/SparsEDA-python
+3. Kong, Youngsun, https://github.com/YoungsunUConn/SparsEDA-python
 
